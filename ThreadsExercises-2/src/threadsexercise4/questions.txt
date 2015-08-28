@@ -1,0 +1,3 @@
+Question 1:
+Yes the program does as expected, and only runs the getRessource method a few times,
+and the it meets a deadlock and can't continue.

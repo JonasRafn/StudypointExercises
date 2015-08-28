@@ -1,0 +1,11 @@
+Question 1: 
+2 threads are created, both threads will call the same method "next()" in the "Even" class
+because the threads are running at random times, they might call the method at the same time.
+The result, is that 1 of the threads might call the method, and then stop before it finishes,
+the method resulting that the integer "n", might only be incremented once. When the other 
+thread, calls the method it increments "n" by 2 and the integer is no longer even. 
+
+Question 2: 
+This problem is very common when developing multithreaded applications, and is definetly 
+something that needs to be dealt with. In the world of banking it would be catastrophic,
+if the register wasn't correctly balanced at the end of the day. 

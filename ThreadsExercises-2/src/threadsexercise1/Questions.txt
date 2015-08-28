@@ -1,0 +1,6 @@
+Question 1:
+        After running the timings i have noted that on my pc it is faster to run the, methods sequential
+        rather than running it paralel. When i started doing the timings i was expecting, running it paralel,
+        would be faster than sequential. There is multiple factors, that could be the raeson for this. 
+        It all depends on the specs of the pc, it might be faster on my pc, but slowe ron another. 
+        It may be the other way around tomorrow, maybe even later in the day.
